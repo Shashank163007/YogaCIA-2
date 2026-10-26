@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import PracticeGallery from './components/PracticeGallery';
 import BreathPacer from './components/BreathPacer';
 import Services from './components/Services';
 import ServiceModal from './components/ServiceModal';
@@ -46,6 +47,7 @@ export default function App() {
       {/* Main Content */}
       <main>
         <Hero onOpenEnroll={handleEnrollClick} />
+        <PracticeGallery />
         <BreathPacer />
         <Services
           onSelectService={(service) => setActiveModalService(service)}
