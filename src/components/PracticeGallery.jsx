@@ -19,6 +19,18 @@ const PRACTICE_PHOTOS = [
     name: 'Upward-Facing Dog',
     focus: 'Posture and an open chest',
   },
+  {
+    src: '/images/child-pose.jpeg',
+    alt: "Yoga practitioner resting in Child's Pose with arms extended forward",
+    name: "Child's Pose",
+    focus: 'A gentle resting posture',
+  },
+  {
+    src: '/images/camel-pose.jpeg',
+    alt: 'Yoga practitioner demonstrating Camel Pose in a kneeling backbend',
+    name: 'Camel Pose',
+    focus: 'A kneeling backbend for the front body',
+  },
 ];
 
 export default function PracticeGallery() {

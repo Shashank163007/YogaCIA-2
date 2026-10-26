@@ -59,8 +59,8 @@ export default function Hero({ onOpenEnroll }) {
             <div className="relative mx-auto max-w-md lg:max-w-none">
               <div className="overflow-hidden rounded-3xl shadow-2xl border-4 border-warm-50 bg-stone-100 aspect-[4/5] relative">
                 <img
-                  src="/images/hero.jpg"
-                  alt="Meditative traditional yoga posture in natural light"
+                  src="/images/tree-pose.jpeg"
+                  alt="Yoga practitioner holding Tree Pose with hands raised overhead"
                   className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
                   loading="eager"
                 />

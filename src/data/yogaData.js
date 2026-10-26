@@ -7,7 +7,7 @@ export const SERVICES_DATA = [
     tag: 'Foundational & Restorative',
     duration: '60 - 75 min sessions',
     level: 'All Levels (Beginner to Advanced)',
-    image: '/images/asana.jpg',
+    image: '/images/warrior-pose.jpeg',
     summary: 'Harmonize body, breath, and awareness through traditional Hatha and gentle Vinyasa sequences designed for sustainable strength and spinal health.',
     details: 'Our Āsana practice emphasizes biomechanical integrity, conscious transitions, and mindful holding rather than performative acrobatics. Each session builds physical longevity, joint mobility, and nervous system regulation.',
     curriculum: [
@@ -25,7 +25,7 @@ export const SERVICES_DATA = [
     tag: 'Vitality & Detoxification',
     duration: '45 - 60 min sessions',
     level: 'Introductory to Intensive',
-    image: '/images/pranayama.jpg',
+    image: '/images/child-pose.jpeg',
     summary: 'Master sacred yogic breathwork techniques that balance vital prana energy, cleanse subtle channels (nadis), and calm the sympathetic nervous system.',
     details: 'Prāṇāyāma is the gateway between the somatic body and the mental sphere. Through controlled retention, rhythmic purifications, and diaphragmatic retraining, learn to dispel fatigue and activate deep parasympathetic restoration.',
     curriculum: [
@@ -43,7 +43,7 @@ export const SERVICES_DATA = [
     tag: 'Mental Clarity & Stillness',
     duration: '30 - 45 min daily',
     level: 'Accessible to all seekers',
-    image: '/images/meditation.jpg',
+    image: '/images/upward-facing-dog.jpeg',
     summary: 'Cultivate sustained mental stillness, emotional composure, and inner equanimity through classic Dharana (concentration) and Dhyana (contemplation).',
     details: 'Unplug from relentless digital overstimulation. Our guided meditation immersions train you to observe cognitive fluctuations without reactivity, anchoring yourself in effortless presence and serene stillness.',
     curriculum: [
@@ -61,7 +61,7 @@ export const SERVICES_DATA = [
     tag: 'Living Wisdom & Integration',
     duration: 'Weekly Discourse & Satsang',
     level: 'Open to everyone',
-    image: '/images/karma-yoga.jpg',
+    image: '/images/camel-pose.jpeg',
     summary: 'Apply eternal yogic philosophy to everyday relationships, professional endeavors, and mindful living through non-attachment and purposeful service.',
     details: 'Yoga is far more than physical movements on a mat—it is an art of conscious living. Dive into discourses from the Bhagavad Gita and Patanjali’s Yoga Sutras to dissolve anxiety around outcomes and live with heartfelt clarity.',
     curriculum: [
