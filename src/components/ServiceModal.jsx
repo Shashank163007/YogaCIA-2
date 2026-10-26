@@ -24,7 +24,7 @@ export default function ServiceModal({ service, onClose, onEnroll }) {
         <p className="text-sm font-medium text-sage-700 mt-1">{service.subtitle}</p>
 
         <div className="my-6 rounded-2xl overflow-hidden h-48 sm:h-56 bg-stone-100">
-          <img src={service.image} alt={service.title} className="w-full h-full object-cover" />
+          <img src={service.image} alt={service.imageAlt} className="w-full h-full object-cover" />
         </div>
 
         <div className="space-y-4 text-stone-700 text-sm leading-relaxed">

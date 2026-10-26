@@ -8,16 +8,16 @@ const PRACTICE_PHOTOS = [
     focus: 'Balance and steady attention',
   },
   {
-    src: '/images/warrior-pose.jpeg',
-    alt: 'Yoga practitioner holding a raised-arm lunge pose',
-    name: 'Warrior Pose',
+    src: '/images/crescent-lunge.jpeg',
+    alt: 'Yoga practitioner holding Crescent Lunge with arms raised overhead',
+    name: 'Crescent Lunge',
     focus: 'Strength and grounded movement',
   },
   {
-    src: '/images/upward-facing-dog.jpeg',
-    alt: 'Yoga practitioner demonstrating an upward-facing backbend',
-    name: 'Upward-Facing Dog',
-    focus: 'Posture and an open chest',
+    src: '/images/cobra-pose.jpeg',
+    alt: 'Yoga practitioner demonstrating Cobra Pose with hands on the floor',
+    name: 'Cobra Pose',
+    focus: 'A gentle backbend and chest opener',
   },
   {
     src: '/images/child-pose.jpeg',

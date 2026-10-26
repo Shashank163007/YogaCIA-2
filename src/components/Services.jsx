@@ -30,7 +30,7 @@ export default function Services({ onSelectService, onEnroll }) {
               <div className="relative h-64 sm:h-72 overflow-hidden bg-stone-200">
                 <img
                   src={service.image}
-                  alt={service.title}
+                  alt={service.imageAlt}
                   className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
                 />
